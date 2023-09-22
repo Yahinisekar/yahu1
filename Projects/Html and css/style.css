@@ -1,0 +1,30 @@
+html{
+    background-color: grey;
+
+}
+body{
+    background-color: white;
+    height:800px;
+    width:800px;
+    margin:10px auto;
+}
+.row{
+    height:800px;
+    width:800px;
+    float:left;
+}
+.box{
+    height:100px;
+    width:100px;
+    float:left;
+    font-size:70px;
+    text-align: center;
+
+}
+.black{
+    background-color: black;
+    color:grey;
+}
+.box:hover {
+    background-color:grey;
+}
